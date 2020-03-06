@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LivrerApp</string>
+    <string name="client">Client</string>
+    <string name="livreur">Livreur</string>
+    <string name="commencer">Commencer</string>
+    <string name="logo">Logo</string>
+    <string name="commander">Commander</string>
+    <string name="sedeconnecter">Se Deconnecter</string>
+    <string name="accepter">Accepter la commande</string>
+    <string name="title_activity_client">Map</string>
+    <string name="title_activity_livreur_location">Map</string>
+
+</resources>
